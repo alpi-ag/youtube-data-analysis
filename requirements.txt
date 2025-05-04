@@ -1,0 +1,5 @@
+pandas
+pyspark
+google-api-python-client
+boto3
+emoji
